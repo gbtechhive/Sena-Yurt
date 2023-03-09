@@ -9,7 +9,7 @@
 <section class="section-yurt">
     <div id="latest_Product" class="second-slider">
         <div class="second-slider-heading">
-            <h1>Latest Products</h1>
+            <h1>Yurt Style Option.</h1>
             <p><a href="see_LatestProduct">See All</a></p>
         </div>
         <div class="second-arrows">
@@ -24,7 +24,7 @@
                             alt="img1" />
                     </a>
                 </div>
-                <p class="slider-pra">Glamping Structure Yurt</p>
+                <p class="slider-pra">Traditional Yurt</p>
                 <div class="star">
                     <i class="fa-solid fa-star star1"></i>
                     <i class="fa-solid fa-star star1"></i><i class="fa-solid fa-star star1"></i><i
@@ -41,7 +41,7 @@
                             alt="img2" />
                     </a>
                 </div>
-                <p class="slider-pra">Steel Mesh Mongolian Yurt</p>
+                <p class="slider-pra">Moden Yurt</p>
                 <div class="star">
                     <i class="fa-solid fa-star star1"></i>
                     <i class="fa-solid fa-star star1"></i><i class="fa-solid fa-star star1"></i><i
@@ -107,10 +107,10 @@
             <p><a href="see_HotProduct">See All</a> </p>
         </div>
         <div class="second-arrows">
-            <i class="fa-solid fa-angle-left next1 next2"></i>
-            <i class="fa-solid fa-angle-right prev1 prev2"></i>
+            <i class="fa-solid fa-angle-left next1 next2" id="id_next2"></i>
+            <i class="fa-solid fa-angle-right prev1 prev2" id="id_prev2"></i>
         </div>
-        <div class="second-slider-main1">
+        <div class="second-slider-main1" id="ID_SecondSlider">
             <div class="second-slider-img4">
                 <div class="image_Box">
                     <a href="yurt3">
@@ -177,6 +177,36 @@
             <div class="second-slider-img2">
                 <div class="image_Box">
                     <a href="yurt6">
+                        <img class="second-img-3" src="{{ asset('/assets/images/home/slider-img.jpg') }}"
+                            alt="image6" />
+                    </a>
+                </div>
+                <p class="slider-pra">Wood Yurt</p>
+                <div class="star">
+                    <i class="fa-solid fa-star star1"></i>
+                    <i class="fa-solid fa-star star1"></i><i class="fa-solid fa-star star1"></i><i
+                        class="fa-solid fa-star star1"> </i><i class="fa-solid fa-star star1"></i>
+                    <p>$ 1999</p>
+                </div>
+            </div>
+            <div class="second-slider-img2">
+                <div class="image_Box">
+                    <a href="yurt6">
+                        <img class="second-img-3" src="{{ asset('/assets/images/yurt-images/yurt_2.png') }}"
+                            alt="image6" />
+                    </a>
+                </div>
+                <p class="slider-pra">Steel and Wood Yurt</p>
+                <div class="star">
+                    <i class="fa-solid fa-star star1"></i>
+                    <i class="fa-solid fa-star star1"></i><i class="fa-solid fa-star star1"></i><i
+                        class="fa-solid fa-star star1"> </i><i class="fa-solid fa-star star1"></i>
+                    <p>$ 1999</p>
+                </div>
+            </div>
+            <div class="second-slider-img2">
+                <div class="image_Box">
+                    <a href="yurt6">
                         <img class="second-img-3" src="{{ asset('/assets/images/yurt-images/yurt_11.jpg') }}"
                             alt="image6" />
                     </a>
@@ -225,7 +255,7 @@
                             alt="" />
                     </a>
                 </div>
-                <p class="slider-pra">Steel Mesh Mongolian Yurt</p>
+                <p class="slider-pra">Moden Yurt</p>
                 <div class="star">
                     <i class="fa-solid fa-star star1"></i>
                     <i class="fa-solid fa-star star1"></i><i class="fa-solid fa-star star1"></i><i
@@ -272,7 +302,7 @@
                             alt="" />
                     </a>
                 </div>
-                <p class="slider-pra">Steel Mesh Mongolian Yurt</p>
+                <p class="slider-pra">Moden Yurt</p>
                 <div class="star">
                     <i class="fa-solid fa-star star1"></i>
                     <i class="fa-solid fa-star star1"></i><i class="fa-solid fa-star star1"></i><i
@@ -324,7 +354,7 @@
                                 alt="" />
                         </a>
                     </div>
-                    <p class="slider-pra">Steel Mesh Mongolian Yurt</p>
+                    <p class="slider-pra">Moden Yurt</p>
                     <div class="star">
                         <i class="fa-solid fa-star star1"></i>
                         <i class="fa-solid fa-star star1"></i><i class="fa-solid fa-star star1"></i><i

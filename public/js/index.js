@@ -36,7 +36,7 @@ $(document).ready(function () {
     });
     $(".second-slider-main1").slick({
         lazyLoad: "ondemand",
-        slidesToShow: 4,
+        slidesToShow: 6,
         slidesToScroll: 1,
         arrows:true,
         infinite: true,

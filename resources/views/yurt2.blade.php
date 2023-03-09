@@ -5,7 +5,7 @@
             <img class="second-img-1" src="{{ asset('/assets/images/yurt-images/yurt_7.png') }}" alt="img1" />
         </div>
         <div class="col2-text">
-            <h3>Steel Mesh Mongolian Yurt</h3>
+            <h3>Moden Yurt</h3>
             <div class="star yurt1_star">
                 <i class="fa-solid fa-star star1"></i>
                 <i class="fa-solid fa-star star1"></i><i class="fa-solid fa-star star1"></i><i class="fa-solid fa-star"
@@ -71,7 +71,7 @@
                     Remarks: The color of steel pipe paint can be selected: red, yellow, blue, brown, white</p>
             </li>
             <li>
-                <p style="color: #80DC07; font-size:16px; font-weight:600;"> Hot Tags: steel mesh Mongolian yurt, China, manufacturers, price, for sale</p>
+                <p style="color: #80DC07; font-size:16px; font-weight:600;"> Hot Tags: Moden Yurt, China, manufacturers, price, for sale</p>
             </li>
         </ul>
     </div>

@@ -275,7 +275,7 @@
                     <img class="second-img-2" src="{{ asset('/assets/images/yurt-images/yurt_7.png') }}"
                         alt="img3" />
                 </a>
-                <p class="slider-pra">Steel Mesh Mongolian Yurt</p>
+                <p class="slider-pra">Moden Yurt</p>
                 <div class="star">
                     <i class="fa-solid fa-star star1"></i>
 

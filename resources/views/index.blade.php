@@ -45,7 +45,7 @@
         <div class="swiper-slide swiperSlide1">
             <div class="content-para3">
                 <h3 data-aos="fade-left">Types Of Yurts</h3>
-                <p data-aos="fade-right" class="para3">We have a total of 7 types of default Yurts</p>
+                <p data-aos="fade-right" class="para3">We have a total of 3 types of default Yurts</p>
                 <hr data-aos="fade-left" style="border: 2px solid #ffffff" width="63px">
                 <h4 data-aos="slide-right">Bamboo Yurt</h4>
                 <p data-aos="zoom-in" class="para4">
@@ -58,9 +58,9 @@
         <div class="swiper-slide swiperSlide2">
             <div class="content-para3">
                 <h3>Types Of Yurts</h3>
-                <p class="para3">We have a total of 7 types of default Yurts</p>
+                <p class="para3">We have a total of 3 types of default Yurts</p>
                 <hr style="border: 2px solid #ffffff" width="63px">
-                <h4>MDF Yurt</h4>
+                <h4>Wooden Yurt</h4>
                 <p class="para4">Tracks, Rafter and Poles are made of Galvanized steel tube , Walls are used of MDF, a
                     PVC dome, and a Aluminum alloy Door and Window.
                 </p>
@@ -70,9 +70,9 @@
         <div class="swiper-slide swiperSlide3">
             <div class="content-para3">
                 <h3 data-aos="slide-left">Types Of Yurts</h3>
-                <p data-aos="slide-up" class="para3">We have a total of 7 types of default Yurts</p>
+                <p data-aos="slide-up" class="para3">We have a total of 3 types of default Yurts</p>
                 <hr data-aos="slide-right" style="border: 2px solid #ffffff" width="63px">
-                <h4>Steel Plastic yurt</h4>
+                <h4>Customization Yurt.</h4>
                 <p data-aos="slide-up" class="para4">Tracks, Rafter and Poles are made of Galvanized steel tube , Walls
                     are used of Plastic
                     mesh, a PVC dome, a Aluminum alloy Door, and Window of wood.

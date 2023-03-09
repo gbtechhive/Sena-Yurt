@@ -316,7 +316,7 @@
                             alt="" />
                     </a>
                 </div>
-                <p class="slider-pra">Steel Mesh Mongolian Yurt</p>
+                <p class="slider-pra">Moden Yurt</p>
                 <div class="star">
                     <i class="fa-solid fa-star star1"></i>
                     <i class="fa-solid fa-star star1"></i><i class="fa-solid fa-star star1"></i><i

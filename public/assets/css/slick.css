@@ -18,7 +18,9 @@
         touch-action: pan-y;
     -webkit-tap-highlight-color: transparent;
 }
-
+#ID_SecondSlider {
+    width: 90% !important;
+}
 .slick-list
 {
     position: relative;
