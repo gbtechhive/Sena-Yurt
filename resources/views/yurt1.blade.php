@@ -5,7 +5,7 @@
             <img class="second-img-1" src="{{ asset('/assets/images/yurt-images/yurt_9.jpg') }}" alt="img1" />
         </div>
         <div class="col2-text">
-            <h3>Glamping Structure Yurt</h3>
+            <h3>Traditional Yurt</h3>
             <div class="star yurt1_star">
                 <i class="fa-solid fa-star star1"></i>
                 <i class="fa-solid fa-star star1"></i><i class="fa-solid fa-star star1"></i><i
