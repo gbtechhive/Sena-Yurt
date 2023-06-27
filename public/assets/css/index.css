@@ -2139,7 +2139,8 @@ padding: 8px 25px;
     justify-content: space-between;
 }
 .text-container {
-    width: 60%;
+    /* width: 60%; */
+    width: 100%;
 }
 .para-one-submain {
     width: 35%;
@@ -2155,7 +2156,7 @@ padding: 8px 25px;
     line-height: 20px;
     text-align: justify;
     color: #3f3f3f;
-    margin-top: 20px;
+    margin: 20px 0px 10rem 0px;
 }
 .art {
     display: flex;
@@ -2247,9 +2248,9 @@ padding: 8px 25px;
     margin: 11px 0px;
 }
 .img-head-two {
-    width: 100%;
+    width: 70%;
     /* width: 602px; */
-    height: 107px;
+    /* height: 107px; */
     margin: 27px 0px;
 }
 .heading {
@@ -2374,6 +2375,15 @@ padding: 8px 25px;
 @media screen and (max-width: 768px) {
     .paragraph-one-main {
         flex-direction: column;
+    }
+    .para-four{
+        flex-direction: column;
+    }
+    .about_img {
+        width:100%;
+    }
+    .img-three-p {
+        width: 100%;
     }
     .art {
         width: 100%;

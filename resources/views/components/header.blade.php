@@ -35,7 +35,7 @@
                     <div class="phone">
                         <a href="https://api.whatsapp.com/send?phone=393456789715" target="_blank"> <i
                                 class="fas fa-light fa-phone"></i>
-                                +86 13838236365
+                                +86 13838236365
                         </a>
                     </div>
                     <div class="gmail">

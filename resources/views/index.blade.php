@@ -86,7 +86,7 @@
 </div>
 {{-- image yurt-slider SECTION START HERE --}}
 <section class="index-yurt-slider">
-    <h2>Yurts</h2>
+    <h2>How to customize a  yurt </h2>
     <div class="controlNextAndPrev">
         <div class="controlNext">
             <div onclick="prevSlidess()">🡠</div>

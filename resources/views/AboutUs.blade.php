@@ -17,16 +17,23 @@
                         A well cared for yurt can live for many years! Since the natural life cycle of its material is
                         fulfilled, it is common to replace it with parts. So, for example, it is expected that the
                         canvas will be updated first, and then the wood will be updated later.
+                        <span>
+                            In Mongolia, for example,
+                                parents inherited domes and pieces of wood from yurts to their children, indicating great
+                                durability.
+                        </span>
                     </p>
+
+
                     <div class="img-two">
                         <img src="{{ asset('/assets/images/About-imges/about_10.jpg') }}" alt="">
                     </div>
                 </div>
-                <div class="para-three">
+                {{-- <div class="para-three">
                     <p> In Mongolia, for example,
                         parents inherited domes and pieces of wood from yurts to their children, indicating great
                         durability. </p>
-                </div>
+                </div> --}}
             </div>
             <div class="para-four">
                 <div class="about_img">
@@ -54,10 +61,10 @@
             </div>
 
         </div>
-        <div class="para-one-submain">
+        {{-- <div class="para-one-submain">
             <p class="para">Company Timeline & Innovations</p>
             <img class="img-one" src="{{ asset('/assets/images/About-imges/aboutImg_9.png') }}" alt="">
-        </div>
+        </div> --}}
     </div>
     <div class="new">
         <div class="heading-three">
@@ -70,7 +77,7 @@
                     alt="">
 
             </div>
-            <p>Jin Yuanli, Yuan Li, Feng Feng Wang, Kai Tian, Tieqiu tribe and other trademarks.</p>
+            <p>and other trademarks into Sinoyurt. Feng Feng Wang, Kai Tian, Tieqiu tribe and other trademarks.</p>
 
         </div>
         <div class="s-last-hdng">
